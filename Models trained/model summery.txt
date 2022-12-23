@@ -1,0 +1,6 @@
+> These are models trained on Yolov5 weights.
+> Maximum 75-80% was accurate results were acheived on realtime by this dataset.
+
+> Model1.pt =========> (50 epochs)  (70 train,20 test, 10 valid) dataset ratio
+> Model2.pt =========> (120 epochs)  (70 train,20 test, 10 valid) dataset ratio
+> Model3.pt =========> (50 epochs)  (70 train,20 test, 10 valid) dataset ratio
